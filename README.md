@@ -53,3 +53,9 @@ Once the application is running, you can access the Swagger UI at:
 ```bash
 http://localhost:8080/swagger-ui/index.html
 ```
+
+Swagger provides an interactive interface for exploring and testing your REST APIs.
+
+### 📸 Example:
+
+![Swagger UI Screenshot](screenshots/swagger.png)
