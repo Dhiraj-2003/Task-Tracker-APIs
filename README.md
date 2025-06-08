@@ -1,4 +1,4 @@
-# Task Tracker API - Spring Boot Internship Assignment
+# Task Tracker API - Spring Boot
 
 This is a simple REST API built with Spring Boot that allows users to manage their daily tasks with support for status tracking, due date filtering, pagination, sorting, and user-task mapping.
 
