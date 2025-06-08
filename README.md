@@ -58,4 +58,6 @@ Swagger provides an interactive interface for exploring and testing your REST AP
 
 ### 📸 Example:
 
-![Swagger UI Screenshot](screenshots/swagger.png)
+![Swagger UI Screenshot](screenshots/swaggerPost.png)
+![Swagger UI Screenshot](screenshots/swaggerResponse.png)
+![Swagger UI Screenshot](screenshots/Database.png)
