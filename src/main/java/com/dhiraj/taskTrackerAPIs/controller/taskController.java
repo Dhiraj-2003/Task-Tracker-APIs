@@ -27,7 +27,7 @@ public class taskController {
         return new ResponseEntity<>(taskService.createTask(task), HttpStatus.CREATED);
     }
 
-    @GetMapping
+    @GetMapping("/getall")
     public List<Task> getAllTasks() {
         return taskService.getAllTasks();
     }
