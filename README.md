@@ -30,8 +30,25 @@ This is a simple REST API built with Spring Boot that allows users to manage the
 
 ## 📥 How to Run
 
-1. **Clone the Repository:**
+**Clone the Repository:**
 
 ```bash
 git clone https://github.com/Dhiraj-2003/Task-Tracker-APIs.git
 cd Task-Tracker-APIs
+
+## ⚙️ Tech Stack
+
+- 🛠 **Java 21**
+- 🚀 **Spring Boot 3.x**
+- 🗃 **Spring Data JPA**
+- 📦 **Maven**
+- 💡 **Lombok**
+- 📘 **Swagger UI (Springdoc OpenAPI)**
+
+---
+
+## 🔍 Swagger UI
+
+Once the application is running, you can access the Swagger UI at:
+```bash
+http://localhost:8080/swagger-ui/index.html
