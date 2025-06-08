@@ -19,7 +19,7 @@ This is a simple REST API built with Spring Boot that allows users to manage the
 | Method | Endpoint                         | Description                    |
 |--------|----------------------------------|--------------------------------|
 | POST   | `/tasks`                         | Create a new task              |
-| GET    | `/tasks`                         | Get all tasks with paging      |
+| GET    | `/tasks/getall`                         | Get all tasks with paging      |
 | GET    | `/tasks/{id}`                    | Get task by ID                 |
 | PUT    | `/tasks/{id}`                    | Update task by ID              |
 | DELETE | `/tasks/{id}`                    | Delete task by ID              |
