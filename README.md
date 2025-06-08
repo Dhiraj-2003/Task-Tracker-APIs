@@ -33,5 +33,5 @@ This is a simple REST API built with Spring Boot that allows users to manage the
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-username/task-tracker-api.git
-cd task-tracker-apis
+git clone https://github.com/Dhiraj-2003/Task-Tracker-APIs.git
+cd Task-Tracker-APIs
